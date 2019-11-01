@@ -1,6 +1,6 @@
 # Software
 1) Ionic Forms with Ngx-Formly.
-2) An Application where you add your expanse and name it and says either it will be added or removed.(It is like an expanse management systems for working professionals)
+2) An Application where you add your expanse and name it and says either it will be added or removed.(It is like an expanse      management systems for working professionals)
 3) My own portfolio ( HarshitChhipa.com ) {In Progress --> Planned the work}
 4) One Projects of how we can make do the payments in angular(Can be any platform)
 
